@@ -1,0 +1,6 @@
+@KanDann.Server_HostAddress = http://localhost:5224
+
+GET {{KanDann.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
