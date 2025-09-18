@@ -27,7 +27,6 @@ C:\Users\Dann\source\repos\KanDann\KanDann.Server\obj\Debug\net9.0\staticwebasse
 C:\Users\Dann\source\repos\KanDann\KanDann.Server\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\Dann\source\repos\KanDann\KanDann.Server\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\Dann\source\repos\KanDann\KanDann.Server\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\Dann\source\repos\KanDann\KanDann.Server\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\Dann\source\repos\KanDann\KanDann.Server\obj\Debug\net9.0\KanDann..E3408EC2.Up2Date
 C:\Users\Dann\source\repos\KanDann\KanDann.Server\obj\Debug\net9.0\KanDann.Server.dll
 C:\Users\Dann\source\repos\KanDann\KanDann.Server\obj\Debug\net9.0\refint\KanDann.Server.dll
@@ -168,3 +167,7 @@ C:\Users\Dann\source\repos\KanDann\KanDann.Server\bin\Debug\net9.0\runtimes\win\
 C:\Users\Dann\source\repos\KanDann\KanDann.Server\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\Dann\source\repos\KanDann\KanDann.Server\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Dann\source\repos\KanDann\KanDann.Server\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Dann\source\repos\KanDann\KanDann.Server\obj\Debug\net9.0\KanDann.Server.sourcelink.json
+C:\Users\Dann\source\repos\KanDann\KanDann.Server\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dann\source\repos\KanDann\KanDann.Server\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\Dann\source\repos\KanDann\KanDann.Server\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
