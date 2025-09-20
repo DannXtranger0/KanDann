@@ -1,4 +1,4 @@
-﻿namespace KanDann.Server.Models.dtos
+﻿namespace KanDann.Server.Models.Dtos
 {
     public class UserClaimsDto
     {

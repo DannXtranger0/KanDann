@@ -1,6 +1,6 @@
 import React from 'react';
 import {Routes, Route } from 'react-router-dom';
-import Login from '../pages/Login';
+import Index from '../pages/Index';
 // Import your page components here
 // import HomePage from '../pages/HomePage';
 // import AboutPage from '../pages/AboutPage';
@@ -8,7 +8,7 @@ import Login from '../pages/Login';
 
 const AppRoutes = () => (
     <Routes>
-        {<Route path="/" element={ <Login/>} /> }
+        {<Route path="/" element={<Index />} /> }
     </Routes>
 );
 

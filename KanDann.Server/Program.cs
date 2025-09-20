@@ -28,7 +28,6 @@ builder.Services.AddControllers();
 builder.Services.AddHttpClient();
 
 // Si tienes un TokenService/ITokenService:
-builder.Services.AddScoped<ITokenService, TokenService>();
 builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddHttpContextAccessor();

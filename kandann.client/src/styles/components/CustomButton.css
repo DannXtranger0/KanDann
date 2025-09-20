@@ -1,0 +1,15 @@
+.custom-button {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 2% 3%;
+    border: 0;
+    border-radius: 5px;
+    font-size: var(--sm-text);
+    font-weight:var(--semi-bold);
+    width: 140px;
+    background-color: #4b4b4b;
+    & img{
+            width: 30%;
+        }
+}

@@ -2,7 +2,7 @@
 using KanDann.Server.Controllers;
 using KanDann.Server.Models;
 using KanDann.Server.Models.Context;
-using KanDann.Server.Models.dtos;
+using KanDann.Server.Models.Dtos;
 using KanDann.Server.Repositories;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;

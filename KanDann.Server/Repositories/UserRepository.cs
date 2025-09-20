@@ -1,6 +1,6 @@
 ﻿using KanDann.Server.Models;
 using KanDann.Server.Models.Context;
-using KanDann.Server.Models.dtos;
+using KanDann.Server.Models.Dtos;
 
 namespace KanDann.Server.Repositories
 {
