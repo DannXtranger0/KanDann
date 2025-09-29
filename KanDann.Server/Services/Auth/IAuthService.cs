@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 
-namespace KanDann.Server.Services
+namespace KanDann.Server.Services.Auth
 {
     public interface IAuthService
     {

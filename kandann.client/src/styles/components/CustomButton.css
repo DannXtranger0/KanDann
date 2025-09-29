@@ -1,8 +1,8 @@
 .custom-button {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
-    padding: 2% 3%;
+    padding: 10px 20px;
     border: 0;
     border-radius: 5px;
     font-size: var(--sm-text);
@@ -12,4 +12,10 @@
     & img{
             width: 30%;
         }
+
+    &:hover {
+        cursor: pointer;
+        filter: brightness(1.2);
+    }
+
 }

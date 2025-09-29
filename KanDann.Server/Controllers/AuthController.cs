@@ -1,6 +1,6 @@
 ﻿using KanDann.Server.Models;
 using KanDann.Server.Models.Context;
-using KanDann.Server.Services;
+using KanDann.Server.Services.Auth;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication.OpenIdConnect;
@@ -50,7 +50,7 @@ namespace KanDann.Server.Controllers
             await _authService.SaveUserInDb(userClaims);
 
             // Finalmente redirigimos al frontend (o al returnUrl si fue provisto)
-            var redirect = returnUrl ?? "https://localhost:56205/";
+            var redirect = returnUrl ?? "https://localhost:56205/new-user";
             return Redirect(redirect);
         }
 

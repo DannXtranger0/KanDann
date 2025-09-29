@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KanDann.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c41e6f1794f894a424c69a3166b98fc61493bef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d0ed5c137d6551b1892c575e01fff141e794f7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("KanDann.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KanDann.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

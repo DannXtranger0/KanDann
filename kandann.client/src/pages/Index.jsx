@@ -5,12 +5,12 @@ import gmail from "../assets/Gmail.png";
 import GifPlaceHolder from "../assets/GifPlaceHolder.png"
 import CustomButton from "../components/CustomButton";
 
+
 function Index() {
     //const [user, setUser] = useState(null);
     //const [loading, setLoading] = useState(true);
     //const [err, setErr] = useState(null);
 
-    //const API_URL = import.meta.env.VITE_API_URL;
 
     //async function fetchUser() {
     //    setLoading(true);
@@ -39,13 +39,17 @@ function Index() {
     //useEffect(() => {
     //    fetchUser();
     //}, []);
+    const handleLogin= ()=>{
+        const API_URL = import.meta.env.VITE_API_URL;
 
+        window.location.href = API_URL + "auth/signin";
+    }
 
     return (
         <main className="index-wrapper">
             <header className="header">
                 <img src={logo}></img>
-                <CustomButton >
+                <CustomButton onClick={handleLogin} >
                     <img src={gmail}></img>
                     Start
                 </CustomButton>

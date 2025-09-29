@@ -1,11 +1,14 @@
 using KanDann.Server.Models.Context;
-using KanDann.Server.Repositories;
-using KanDann.Server.Services;
+using KanDann.Server.Repositories.User;
+using KanDann.Server.Services.Auth;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication.OpenIdConnect;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
+using Microsoft.AspNetCore.OpenApi;  
+
 using Scalar.AspNetCore;
+using KanDann.Server.Services.User;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -30,6 +33,10 @@ builder.Services.AddHttpClient();
 // Si tienes un TokenService/ITokenService:
 builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
+
+builder.Services.AddScoped<IUserService,UserService>();
+builder.Services.AddScoped<IUserRepository,UserRepository>();
+
 builder.Services.AddHttpContextAccessor();
 
 builder.Services.AddEndpointsApiExplorer();
@@ -99,7 +106,7 @@ builder.Services.AddAuthentication(options =>
         }
     };
 });
-
+builder.Services.AddOpenApi();
 
 var app = builder.Build();
 
@@ -108,7 +115,9 @@ var app = builder.Build();
 // ----------------------
 if (app.Environment.IsDevelopment())
 {
+    app.MapOpenApi();
     app.MapScalarApiReference();
+
 }
 
 app.UseCors("AllowFrontend");

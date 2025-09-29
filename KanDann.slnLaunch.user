@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "kandann.client\\kandann.client.esproj",
+        "Action": "Start",
+        "DebugTarget": "localhost (Edge)"
+      },
+      {
+        "Path": "KanDann.Server\\KanDann.Server.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

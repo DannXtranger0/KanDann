@@ -15,6 +15,6 @@ namespace KanDann.Server.Models
         public string? AvatarUrl { get; set; }
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
         public DateTime LastLogin { get; set; } = DateTime.UtcNow;
-        public virtual List<UserTokens>? Tokens { get; set; }
+        public virtual List<Board>? Boards { get; set; }
     }
 }

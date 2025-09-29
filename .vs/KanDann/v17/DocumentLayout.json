@@ -3,28 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Dann\\source\\repos\\KanDann\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B94B6E9-3606-15E9-3248-AA21CA863F5E}|kandann.client\\kandann.client.esproj|c:\\users\\dann\\source\\repos\\kandann\\kandann.client\\src\\styles\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9B94B6E9-3606-15E9-3248-AA21CA863F5E}|kandann.client\\kandann.client.esproj|solutionrelative:kandann.client\\src\\styles\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{0A089066-35EE-4641-BF39-CA21F006FD0E}|KanDann.Server\\KanDann.Server.csproj|c:\\users\\dann\\source\\repos\\kandann\\kandann.server\\repositories\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A089066-35EE-4641-BF39-CA21F006FD0E}|KanDann.Server\\KanDann.Server.csproj|solutionrelative:kandann.server\\repositories\\user\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B94B6E9-3606-15E9-3248-AA21CA863F5E}|kandann.client\\kandann.client.esproj|c:\\users\\dann\\source\\repos\\kandann\\kandann.client\\src\\pages\\index.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{9B94B6E9-3606-15E9-3248-AA21CA863F5E}|kandann.client\\kandann.client.esproj|solutionrelative:kandann.client\\src\\pages\\index.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{0A089066-35EE-4641-BF39-CA21F006FD0E}|KanDann.Server\\KanDann.Server.csproj|c:\\users\\dann\\source\\repos\\kandann\\kandann.server\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A089066-35EE-4641-BF39-CA21F006FD0E}|KanDann.Server\\KanDann.Server.csproj|solutionrelative:kandann.server\\services\\user\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B94B6E9-3606-15E9-3248-AA21CA863F5E}|kandann.client\\kandann.client.esproj|c:\\users\\dann\\source\\repos\\kandann\\kandann.client\\src\\styles\\components\\custombutton.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9B94B6E9-3606-15E9-3248-AA21CA863F5E}|kandann.client\\kandann.client.esproj|solutionrelative:kandann.client\\src\\styles\\components\\custombutton.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{0A089066-35EE-4641-BF39-CA21F006FD0E}|KanDann.Server\\KanDann.Server.csproj|c:\\users\\dann\\source\\repos\\kandann\\kandann.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A089066-35EE-4641-BF39-CA21F006FD0E}|KanDann.Server\\KanDann.Server.csproj|solutionrelative:kandann.server\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B94B6E9-3606-15E9-3248-AA21CA863F5E}|kandann.client\\kandann.client.esproj|c:\\users\\dann\\source\\repos\\kandann\\kandann.client\\src\\components\\custombutton.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{9B94B6E9-3606-15E9-3248-AA21CA863F5E}|kandann.client\\kandann.client.esproj|solutionrelative:kandann.client\\src\\components\\custombutton.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{0A089066-35EE-4641-BF39-CA21F006FD0E}|KanDann.Server\\KanDann.Server.csproj|c:\\users\\dann\\source\\repos\\kandann\\kandann.server\\services\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A089066-35EE-4641-BF39-CA21F006FD0E}|KanDann.Server\\KanDann.Server.csproj|solutionrelative:kandann.server\\services\\user\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B94B6E9-3606-15E9-3248-AA21CA863F5E}|kandann.client\\kandann.client.esproj|c:\\users\\dann\\source\\repos\\kandann\\kandann.client\\src\\styles\\global.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9B94B6E9-3606-15E9-3248-AA21CA863F5E}|kandann.client\\kandann.client.esproj|solutionrelative:kandann.client\\src\\styles\\global.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{0A089066-35EE-4641-BF39-CA21F006FD0E}|KanDann.Server\\KanDann.Server.csproj|c:\\users\\dann\\source\\repos\\kandann\\kandann.server\\repositories\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A089066-35EE-4641-BF39-CA21F006FD0E}|KanDann.Server\\KanDann.Server.csproj|solutionrelative:kandann.server\\repositories\\user\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B94B6E9-3606-15E9-3248-AA21CA863F5E}|kandann.client\\kandann.client.esproj|c:\\users\\dann\\source\\repos\\kandann\\kandann.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{9B94B6E9-3606-15E9-3248-AA21CA863F5E}|kandann.client\\kandann.client.esproj|solutionrelative:kandann.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{0A089066-35EE-4641-BF39-CA21F006FD0E}|KanDann.Server\\KanDann.Server.csproj|c:\\users\\dann\\source\\repos\\kandann\\kandann.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A089066-35EE-4641-BF39-CA21F006FD0E}|KanDann.Server\\KanDann.Server.csproj|solutionrelative:kandann.server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B94B6E9-3606-15E9-3248-AA21CA863F5E}|kandann.client\\kandann.client.esproj|c:\\users\\dann\\source\\repos\\kandann\\kandann.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9B94B6E9-3606-15E9-3248-AA21CA863F5E}|kandann.client\\kandann.client.esproj|solutionrelative:kandann.client\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A089066-35EE-4641-BF39-CA21F006FD0E}|KanDann.Server\\KanDann.Server.csproj|c:\\users\\dann\\source\\repos\\kandann\\kandann.server\\services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A089066-35EE-4641-BF39-CA21F006FD0E}|KanDann.Server\\KanDann.Server.csproj|solutionrelative:kandann.server\\services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A089066-35EE-4641-BF39-CA21F006FD0E}|KanDann.Server\\KanDann.Server.csproj|c:\\users\\dann\\source\\repos\\kandann\\kandann.server\\models\\workplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A089066-35EE-4641-BF39-CA21F006FD0E}|KanDann.Server\\KanDann.Server.csproj|solutionrelative:kandann.server\\models\\workplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B94B6E9-3606-15E9-3248-AA21CA863F5E}|kandann.client\\kandann.client.esproj|c:\\users\\dann\\source\\repos\\kandann\\kandann.client\\src\\pages\\board.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9B94B6E9-3606-15E9-3248-AA21CA863F5E}|kandann.client\\kandann.client.esproj|solutionrelative:kandann.client\\src\\pages\\board.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A089066-35EE-4641-BF39-CA21F006FD0E}|KanDann.Server\\KanDann.Server.csproj|c:\\users\\dann\\source\\repos\\kandann\\kandann.server\\models\\userboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A089066-35EE-4641-BF39-CA21F006FD0E}|KanDann.Server\\KanDann.Server.csproj|solutionrelative:kandann.server\\models\\userboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A089066-35EE-4641-BF39-CA21F006FD0E}|KanDann.Server\\KanDann.Server.csproj|c:\\users\\dann\\source\\repos\\kandann\\kandann.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A089066-35EE-4641-BF39-CA21F006FD0E}|KanDann.Server\\KanDann.Server.csproj|solutionrelative:kandann.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A089066-35EE-4641-BF39-CA21F006FD0E}|KanDann.Server\\KanDann.Server.csproj|c:\\users\\dann\\source\\repos\\kandann\\kandann.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A089066-35EE-4641-BF39-CA21F006FD0E}|KanDann.Server\\KanDann.Server.csproj|solutionrelative:kandann.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,87 +62,168 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.jsx",
-              "DocumentMoniker": "C:\\Users\\Dann\\source\\repos\\KanDann\\kandann.client\\src\\pages\\Index.jsx",
-              "RelativeDocumentMoniker": "kandann.client\\src\\pages\\Index.jsx",
-              "ToolTip": "C:\\Users\\Dann\\source\\repos\\KanDann\\kandann.client\\src\\pages\\Index.jsx",
-              "RelativeToolTip": "kandann.client\\src\\pages\\Index.jsx",
-              "ViewState": "AgIAADoAAAAAAAAAAAAAwEsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-09-19T19:31:59.3Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Dann\\source\\repos\\KanDann\\KanDann.Server\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "KanDann.Server\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Dann\\source\\repos\\KanDann\\KanDann.Server\\Controllers\\UserController.cs",
+              "RelativeToolTip": "KanDann.Server\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAawBUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:53:22.563Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.css",
-              "DocumentMoniker": "C:\\Users\\Dann\\source\\repos\\KanDann\\kandann.client\\src\\styles\\Index.css",
-              "RelativeDocumentMoniker": "kandann.client\\src\\styles\\Index.css",
-              "ToolTip": "C:\\Users\\Dann\\source\\repos\\KanDann\\kandann.client\\src\\styles\\Index.css",
-              "RelativeToolTip": "kandann.client\\src\\styles\\Index.css",
-              "ViewState": "AgIAABwAAAAAAAAAAADwvy8AAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-20T02:09:06.881Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Dann\\source\\repos\\KanDann\\KanDann.Server\\Services\\User\\UserService.cs",
+              "RelativeDocumentMoniker": "KanDann.Server\\Services\\User\\UserService.cs",
+              "ToolTip": "C:\\Users\\Dann\\source\\repos\\KanDann\\KanDann.Server\\Services\\User\\UserService.cs",
+              "RelativeToolTip": "KanDann.Server\\Services\\User\\UserService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAASwAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:57:11.833Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Global.css",
-              "DocumentMoniker": "C:\\Users\\Dann\\source\\repos\\KanDann\\kandann.client\\src\\styles\\Global.css",
-              "RelativeDocumentMoniker": "kandann.client\\src\\styles\\Global.css",
-              "ToolTip": "C:\\Users\\Dann\\source\\repos\\KanDann\\kandann.client\\src\\styles\\Global.css",
-              "RelativeToolTip": "kandann.client\\src\\styles\\Global.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-20T13:18:37.127Z",
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dann\\source\\repos\\KanDann\\KanDann.Server\\Repositories\\User\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "KanDann.Server\\Repositories\\User\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Dann\\source\\repos\\KanDann\\KanDann.Server\\Repositories\\User\\IUserRepository.cs",
+              "RelativeToolTip": "KanDann.Server\\Repositories\\User\\IUserRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T12:59:30.253Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Dann\\source\\repos\\KanDann\\KanDann.Server\\Repositories\\User\\UserRepository.cs",
+              "RelativeDocumentMoniker": "KanDann.Server\\Repositories\\User\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Dann\\source\\repos\\KanDann\\KanDann.Server\\Repositories\\User\\UserRepository.cs",
+              "RelativeToolTip": "KanDann.Server\\Repositories\\User\\UserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T13:10:06.02Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CustomButton.jsx",
-              "DocumentMoniker": "C:\\Users\\Dann\\source\\repos\\KanDann\\kandann.client\\src\\components\\CustomButton.jsx",
-              "RelativeDocumentMoniker": "kandann.client\\src\\components\\CustomButton.jsx",
-              "ToolTip": "C:\\Users\\Dann\\source\\repos\\KanDann\\kandann.client\\src\\components\\CustomButton.jsx",
-              "RelativeToolTip": "kandann.client\\src\\components\\CustomButton.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-09-20T12:51:46.555Z",
-              "EditorCaption": ""
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Dann\\source\\repos\\KanDann\\KanDann.Server\\Services\\User\\IUserService.cs",
+              "RelativeDocumentMoniker": "KanDann.Server\\Services\\User\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Dann\\source\\repos\\KanDann\\KanDann.Server\\Services\\User\\IUserService.cs",
+              "RelativeToolTip": "KanDann.Server\\Services\\User\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T01:52:56.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CustomButton.css",
-              "DocumentMoniker": "C:\\Users\\Dann\\source\\repos\\KanDann\\kandann.client\\src\\styles\\components\\CustomButton.css",
-              "RelativeDocumentMoniker": "kandann.client\\src\\styles\\components\\CustomButton.css",
-              "ToolTip": "C:\\Users\\Dann\\source\\repos\\KanDann\\kandann.client\\src\\styles\\components\\CustomButton.css",
-              "RelativeToolTip": "kandann.client\\src\\styles\\components\\CustomButton.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-20T13:12:41.611Z",
-              "EditorCaption": ""
+              "DocumentIndex": 9,
+              "Title": "Board.jsx",
+              "DocumentMoniker": "C:\\Users\\Dann\\source\\repos\\KanDann\\kandann.client\\src\\pages\\Board.jsx",
+              "RelativeDocumentMoniker": "kandann.client\\src\\pages\\Board.jsx",
+              "ToolTip": "C:\\Users\\Dann\\source\\repos\\KanDann\\kandann.client\\src\\pages\\Board.jsx",
+              "RelativeToolTip": "kandann.client\\src\\pages\\Board.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-09-29T01:30:04.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Dann\\source\\repos\\KanDann\\KanDann.Server\\Services\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "KanDann.Server\\Services\\Auth\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Dann\\source\\repos\\KanDann\\KanDann.Server\\Services\\Auth\\AuthService.cs",
+              "RelativeToolTip": "KanDann.Server\\Services\\Auth\\AuthService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAhwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T01:23:32.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Dann\\source\\repos\\KanDann\\kandann.client\\package.json",
+              "RelativeDocumentMoniker": "kandann.client\\package.json",
+              "ToolTip": "C:\\Users\\Dann\\source\\repos\\KanDann\\kandann.client\\package.json",
+              "RelativeToolTip": "kandann.client\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-29T00:25:07.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dann\\source\\repos\\KanDann\\KanDann.Server\\Program.cs",
+              "RelativeDocumentMoniker": "KanDann.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\Dann\\source\\repos\\KanDann\\KanDann.Server\\Program.cs",
+              "RelativeToolTip": "KanDann.Server\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAC0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T13:38:08.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Dann\\source\\repos\\KanDann\\KanDann.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "KanDann.Server\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Dann\\source\\repos\\KanDann\\KanDann.Server\\Models\\User.cs",
+              "RelativeToolTip": "KanDann.Server\\Models\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T13:31:01.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserBoard.cs",
+              "DocumentMoniker": "C:\\Users\\Dann\\source\\repos\\KanDann\\KanDann.Server\\Models\\UserBoard.cs",
+              "RelativeDocumentMoniker": "KanDann.Server\\Models\\UserBoard.cs",
+              "ToolTip": "C:\\Users\\Dann\\source\\repos\\KanDann\\KanDann.Server\\Models\\UserBoard.cs",
+              "RelativeToolTip": "KanDann.Server\\Models\\UserBoard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T13:31:01.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkPlace.cs",
+              "DocumentMoniker": "C:\\Users\\Dann\\source\\repos\\KanDann\\KanDann.Server\\Models\\WorkPlace.cs",
+              "RelativeDocumentMoniker": "KanDann.Server\\Models\\WorkPlace.cs",
+              "ToolTip": "C:\\Users\\Dann\\source\\repos\\KanDann\\KanDann.Server\\Models\\WorkPlace.cs",
+              "RelativeToolTip": "KanDann.Server\\Models\\WorkPlace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T13:12:17.879Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "App.jsx",
-              "DocumentMoniker": "C:\\Users\\Dann\\source\\repos\\KanDann\\kandann.client\\src\\App.jsx",
-              "RelativeDocumentMoniker": "kandann.client\\src\\App.jsx",
-              "ToolTip": "C:\\Users\\Dann\\source\\repos\\KanDann\\kandann.client\\src\\App.jsx",
-              "RelativeToolTip": "kandann.client\\src\\App.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-09-19T19:31:44.786Z",
-              "EditorCaption": ""
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Dann\\source\\repos\\KanDann\\KanDann.Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "KanDann.Server\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Dann\\source\\repos\\KanDann\\KanDann.Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "KanDann.Server\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T13:06:28.749Z"
             }
           ]
         }
