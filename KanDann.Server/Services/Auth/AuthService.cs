@@ -14,7 +14,7 @@ using System.Security.Claims;
 
 namespace KanDann.Server.Services.Auth
 {
-    public class AuthService : IAuthService
+    public class AuthService: IAuthService
     {
         private readonly MyDbContext _context;
         private readonly IHttpContextAccessor _contextAccesor;
@@ -104,7 +104,7 @@ namespace KanDann.Server.Services.Auth
                 await _userRepo.SaveUser(userClaimsDto);
             }
             else
-            {
+            {  
                 await _userRepo.UpdateUser(userClaimsDto, user);
             }
 

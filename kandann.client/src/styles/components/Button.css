@@ -2,15 +2,17 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    gap: 3vw;
     padding: 10px 20px;
     border: 0;
+    min-width: 100px;
+    max-width: 200px;
     border-radius: 5px;
-    font-size: var(--sm-text);
-    font-weight:var(--semi-bold);
-    width: 140px;
-    background-color: #4b4b4b;
+    font-size: var(--md-text);
+    font-weight:var(--bold); 
+    background-color: var(--white-principal);
     & img{
-            width: 30%;
+            width: 40px;
         }
 
     &:hover {

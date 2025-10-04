@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.OpenApi;
 
 using Scalar.AspNetCore;
 using KanDann.Server.Services.User;
+using KanDann.Server.Services.Workplace;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -32,10 +33,14 @@ builder.Services.AddHttpClient();
 
 // Si tienes un TokenService/ITokenService:
 builder.Services.AddScoped<IAuthService, AuthService>();
-builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IWorkplaceRepository, WorkplaceRepository>();
 
 builder.Services.AddScoped<IUserService,UserService>();
 builder.Services.AddScoped<IUserRepository,UserRepository>();
+
+
+builder.Services.AddScoped<IWorkplaceService, WorkplaceService>();
+builder.Services.AddScoped<IWorkplaceRepository, WorkplaceRepository>();
 
 builder.Services.AddHttpContextAccessor();
 

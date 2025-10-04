@@ -1,0 +1,21 @@
+
+.link-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: transparent;
+    padding: 2vh 0;
+    text-decoration: none;
+    color: var(--white-principal);
+    width: 100%;
+    font-size: var(--tn-text);
+
+    &:hover{
+        filter: brightness(1.3);
+    }
+    & img{
+        width: 40%;
+    }
+}

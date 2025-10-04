@@ -1,5 +1,7 @@
 ﻿
+using KanDann.Server.Models.Dtos;
 using KanDann.Server.Repositories.User;
+using Microsoft.AspNetCore.Mvc;
 
 namespace KanDann.Server.Services.User
 {
@@ -10,9 +12,10 @@ namespace KanDann.Server.Services.User
         {
             _userRepository = userRepository;
         }
-        public Task<bool> UserIsNew(string email)
+
+        public async Task<bool> UserIsNew(string email)
         {
-            return _userRepository.UserIsNew(email);
+            return await _userRepository.UserIsNew(email);
         }
 
     }

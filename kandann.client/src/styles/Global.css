@@ -1,6 +1,11 @@
 ﻿@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
 :root {
+    --white-principal: #F1F1F1;
+    --black-principal: #181818;
+    --black-secondary: #141313;
+    --tn-text: .7rem;
     --sm-text: 1.1rem;
+    --md-text: 1.3rem;
     --semi-bold: 600;
     --bold: 700;
 }
@@ -12,3 +17,13 @@
     box-sizing:border-box;
 }
 
+.board-layout-wrapper{
+    display: flex;
+    flex-direction: column;
+
+    background-color: var(--black-principal);
+    background-color: rebeccapurple;
+    height: 100%;
+    width: 100%;
+    border-radius: 8px;
+}

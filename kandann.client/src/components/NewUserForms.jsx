@@ -23,9 +23,7 @@ export function Step2({formData, setFormData}){
 export function Step3({formData, setFormData}){
      return(
         <div className="new-user-form-container">
-            <h3>Ahora si, escoge el nombre de tu primer tablero</h3>
-            <input type="text" value={formData.board} onChange={(e)=>setFormData({...formData, board: e.target.value})} />
-            <p>dentro de cada espacio de trabajo puedes crear los tableros que quieras</p>
+            <h3>Todo listo, ahora disfruta de la plataforma!</h3>
         </div>
        );
 }

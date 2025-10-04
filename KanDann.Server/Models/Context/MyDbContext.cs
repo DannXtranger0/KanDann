@@ -1,4 +1,5 @@
 ﻿using KanDann.Server.Models;
+using KanDann.Server.Models.Seeders;
 using Microsoft.EntityFrameworkCore;
 
 namespace KanDann.Server.Models.Context
@@ -18,5 +19,11 @@ namespace KanDann.Server.Models.Context
 
         }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfiguration(new RolesSeed());
+
+            modelBuilder.Entity<Role>().Property(x => x.Name).HasConversion<string>();
+        }
     }
 }
