@@ -5,7 +5,7 @@ background-color: var(--black-principal);
 .layout-container{
     display: flex;
     flex-direction: row;
-
+    overflow-x: hidden;
 }
 
 
@@ -44,8 +44,8 @@ input[type="checkbox"]{
 
 
 .board-wrapper{
-    margin: 4vh;
-    width: 100vw;
+    margin: 4vh ;
+    width: 92vw;
     height: 92vh;
 }
 

@@ -8,9 +8,10 @@
     min-width: 100px;
     max-width: 200px;
     border-radius: 5px;
-    font-size: var(--md-text);
+    font-size: var(--tn-text);
     font-weight:var(--bold); 
     background-color: var(--white-principal);
+
     & img{
             width: 40px;
         }
@@ -20,4 +21,20 @@
         filter: brightness(1.2);
     }
 
+}
+
+
+.custom-button.tn {
+    font-size: var(--tn-text);
+    padding: 4px 12px;
+    min-width: 80px;
+    max-width: 150px;
+    & img {
+        width: 30px;
+    }
+}
+
+.custom-button.icon {
+    gap: 1vw;
+    text-wrap: nowrap;
 }

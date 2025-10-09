@@ -1,0 +1,37 @@
+
+.column-wrapper{
+    border-bottom: 2px solid var(--white-principal);
+    border-left: 2px solid var(--white-principal);
+    border-radius: 5px;
+    height: 100%;
+
+}
+.column-top{
+    border-radius: 5px 5px 0 0;
+    flex-direction: row;
+    background-color: var(--white-principal);
+    padding: 1vh;
+
+
+}
+
+.column-top-edit{
+    display: flex;
+    gap: 4vh;
+    justify-content: center;
+
+}
+.input-column{
+    text-align: center;
+    padding: 4px 8px;
+    width:80%;
+    border-radius: 5px;
+    font-size: var(--sm-text);
+    padding: 1vh;
+    color: var(--black-principal);
+    }
+.column-btn-minus{
+    border: none;
+    cursor: pointer;
+
+}

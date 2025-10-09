@@ -1,0 +1,34 @@
+.board-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  overflow: hidden; /* evita que el header se mueva con el scroll */
+}
+.top-board-wrapper {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background-color: var(--black-secondary);
+}
+.top-board{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 3vh 0;
+  background-color: var(--black-secondary);
+  border-radius: 5px;
+  flex-shrink: 0; /* evita que se comprima */
+}
+ .content-board-wrapper{
+     flex: 1;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+.content-board{
+    height: 100%;
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: minmax(190px, 1fr); /* Ancho mínimo 200px por columna */
+    overflow-x: auto; /* Activa scroll horizontal */
+    overflow-y: auto; /* Activa scroll horizontal */
+}
